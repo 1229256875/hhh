@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T17:21:34.257Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="TkwJq1gPfJ970jIWo859" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T17:21:57.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Ycdg7g5CfPPdlWc5twFH" version="22.0.8" type="github">
   <diagram id="rmTEDWEKVD9kNfGKOyo8" name="第 1 页">
     <mxGraphModel dx="1999" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,9 @@
         <mxCell id="1" parent="0" />
         <mxCell id="SN9BmvuSSKTXjGhhH6f0-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-20" y="-40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="On85DDMxS1n36GUcr534-1" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-210" y="-140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
