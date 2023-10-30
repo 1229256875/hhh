@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-30T17:26:02.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="Tno3qvHRAUlkZQsv0Oth" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-30T17:26:56.611Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="tN9GAMBy7IpYsPWWHJ5P" version="22.0.8" type="github">
   <diagram id="rmTEDWEKVD9kNfGKOyo8" name="第 1 页">
     <mxGraphModel dx="2501" dy="2428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#080808" math="0" shadow="0">
       <root>
@@ -15,6 +15,15 @@
         </mxCell>
         <mxCell id="On85DDMxS1n36GUcr534-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="-680" y="-400" width="560" height="350" as="geometry" />
+        </mxCell>
+        <mxCell id="On85DDMxS1n36GUcr534-6" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="On85DDMxS1n36GUcr534-7" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="190" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="On85DDMxS1n36GUcr534-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-450" y="70" width="140" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
